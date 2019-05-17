@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "ORACLE添加监控删除记录触发器"
-date: 2018-05-29 17:58:00
+date: 2019-05-17 17:14:47
 description: "创建一个删除记录后就触发的触发器,记录下客户端IP"
 tag: oracle create trigger delete record
 ---
+
 
 ```SQL
 -- 创建备份表
